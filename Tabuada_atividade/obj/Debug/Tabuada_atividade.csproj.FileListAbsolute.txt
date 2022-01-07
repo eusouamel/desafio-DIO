@@ -1,0 +1,9 @@
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\bin\Debug\Tabuada_atividade.exe.config
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\bin\Debug\Tabuada_atividade.exe
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\bin\Debug\Tabuada_atividade.pdb
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\obj\Debug\Tabuada_atividade.Form1.resources
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\obj\Debug\Tabuada_atividade.Properties.Resources.resources
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\obj\Debug\Tabuada_atividade.csproj.GenerateResource.cache
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\obj\Debug\Tabuada_atividade.csproj.CoreCompileInputs.cache
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\obj\Debug\Tabuada_atividade.exe
+C:\Users\nogue\source\repos\Tabuada_atividade\Tabuada_atividade\obj\Debug\Tabuada_atividade.pdb
